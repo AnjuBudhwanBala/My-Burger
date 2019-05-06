@@ -1,6 +1,6 @@
 # My-Burger App
 
-This is an App to create a Burger containing(React,Firebase database)
+This is an App to create a Burger containing(React,React Routers,Firebase is used as database )
 
 # Getting started
 

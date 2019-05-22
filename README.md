@@ -14,10 +14,10 @@ To get the frontend running locally:
 - Local web server will use port 3000.
 
 # Libraries Used
--React
--React-Router
--Redux
--enzyme for testing
+- React
+- React-Router
+- Redux
+- enzyme for testing
 
 # Tutorials/References
 https://www.udemy.com/react-the-complete-guide-incl-redux/
